@@ -31,8 +31,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/port-scanner.git
 cd port-scanner
-<<<<<<< HEAD
 
-
-=======
->>>>>>> 5c7aeaf00d6060053ef6061449d64277d4d8e637

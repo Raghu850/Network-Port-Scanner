@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔍 Python Network Port Scanner
 
 A multithreaded network port scanner built using Python.  
@@ -30,3 +31,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/your-username/port-scanner.git
 cd port-scanner
+=======
+# Network-Port-Scanner
+>>>>>>> 28434d522b17f452381c797587238c857485d196
